@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private Button button;
     private String[] option = {"Cara","Coroa"};
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
